@@ -22,7 +22,7 @@ Challenge App is a dynamic application built with React, React Router, and Frame
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ChallengeApp.git
+    git clone https://github.com/Anujshivhare/Challenge-App
     ```
 
 2. Navigate to the project directory:
