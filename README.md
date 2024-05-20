@@ -16,8 +16,7 @@ Challenge App is a dynamic application built with React, React Router, and Frame
 - React
 - React Router
 - Framer Motion
-- Vite (build tool)
-
+  
 ## Getting Started
 
 1. Clone the repository:
